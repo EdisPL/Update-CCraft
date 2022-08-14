@@ -1,5 +1,5 @@
 --Change id to the gist id--
-id = "a503ca910916b0df41b4f913fa200178"
+id = "https://gist.github.com/EdisPL/a503ca910916b0df41b4f913fa200178"
 shell.run("delete", "run")
 shell.run("wget",id,"run")
 
