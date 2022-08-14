@@ -1,1 +1,1 @@
-shell.run("wget",https://gist.github.com/EdisPL/881d3b404d236610f2f8f32e76b1d7ba,"881d3b404d236610f2f8f32e76b1d7ba","update")
+shell.run("wget",https://gist.github.com/EdisPL/881d3b404d236610f2f8f32e76b1d7ba,"update")
