@@ -1,1 +1,1 @@
-shell.run("pastebin","run","881d3b404d236610f2f8f32e76b1d7ba","update")
+shell.run("pastebin","run","881d3b404d236610f2f8f32e76b1d7ba","agwwawefasd")
